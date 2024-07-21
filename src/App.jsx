@@ -1,11 +1,11 @@
 import { useState } from 'react'
-import Card from '/Card'
+import Deck from '/Deck.jsx'
 import './App.css'
 
 function App() {
   return (
     <>
-      <Card />
+      <Deck />
     </>
   )
 }
