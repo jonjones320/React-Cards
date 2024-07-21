@@ -1,5 +1,3 @@
----
-
 ## **Part 1: Click to Draw**
 
 Build an app that displays a deck of cards, one card at a time. When the page loads, go to the [Deck of Cards API](http://deckofcardsapi.com/) to create a new deck, and show a button on the page that will let you draw a card.
